@@ -1,6 +1,6 @@
 # Tamerlan Ormanbayev   
 **📍 Calgary, Alberta, Canada**  
-[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)]((https://www.linkedin.com/in/tamerlan-ormanbayev-5b2648237/)
+[![LinkedIn](https://img.shields.io/badge/-Connect%20on%20LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=000)](https://www.linkedin.com/in/tamerlan-ormanbayev-5b2648237/)
 [![Email](https://img.shields.io/badge/-Reach%20out%20via%20Email-D14836?style=for-the-badge&logo=gmail&logoColor=white&labelColor=000)](mailto:tamerlanormanbayev@gmail.com)
 [![GitHub](https://img.shields.io/badge/-Explore%20my%20Code-181717?style=for-the-badge&logo=github&logoColor=white&labelColor=000)](https://github.com/tamerlan-ormanbayev)
 
@@ -21,21 +21,12 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat&logo=mysql&logoColor=white)  
 
-![Java](https://readme-components.vercel.app/api?component=logo&logo=java&text=Java&animate=fadeIn)
-![Python](https://readme-components.vercel.app/api?component=logo&logo=python&text=Python&animate=spin)
-![JavaScript](https://readme-components.vercel.app/api?component=logo&logo=javascript&text=JavaScript&animate=bounce)
-![Spark](https://readme-components.vercel.app/api?component=logo&logo=apachespark&text=PySpark&animate=shake)
-
 ### **Frameworks**  
 ![Django](https://img.shields.io/badge/Django-092E20?style=flat&logo=django&logoColor=white)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwindcss&logoColor=white)
 ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white)
 ![PySpark](https://img.shields.io/badge/PySpark-E25A1C?style=flat&logo=apachespark&logoColor=white)  
-
-![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black&labelColor=000&cacheSeconds=1)
-![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white&labelColor=000&cacheSeconds=1)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white&labelColor=000)
 
 ### **Technologies**  
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -48,17 +39,6 @@
 ![TDD](https://img.shields.io/badge/TDD-25A162?style=flat&logo=testcafe&logoColor=white)
 ![OOP](https://img.shields.io/badge/OOP-009688?style=flat&logo=oop&logoColor=white)
 ![Distributed Systems](https://img.shields.io/badge/Distributed_Systems-4285F4?style=flat&logo=googlecloud&logoColor=white)  
-
-## ✨ Highlights  
-```scala
-// Animated Code Snippet
-def keepCoding(): Future[Innovation] = {
-  while(true) {
-    buildProjects()
-    learnNewTech()
-    drinkCoffee()
-  }
-}
 
 
 *I have started, and that's what matters the most.*
