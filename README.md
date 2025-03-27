@@ -7,7 +7,7 @@
 ---
 
 ## 📊 Coding Activity  
-![Animated Graph](https://github-readme-activity-graph.vercel.app/graph?username=yourusername&theme=react-dark&hide_border=true&area=true&custom_title=Code+Flow+🌀)
+![Animated Graph](https://github-readme-activity-graph.vercel.app/graph?username=tamerlan-ormanbayev&theme=react-dark&hide_border=true&area=true&custom_title=Code+Flow+🌀)
 
 ## 🛠️ Technical Skills  
 
